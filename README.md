@@ -25,6 +25,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 -->
+
 # About Easy Social Authenticator
 
 About Easy Social Authenticator is API for easy authentication via social media.
