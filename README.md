@@ -28,4 +28,4 @@
 
 # About Easy Social Authenticator
 
-About Easy Social Authenticator is API for easy authentication via social media.
+Easy Social Authenticator is API for easy authentication via social media.
